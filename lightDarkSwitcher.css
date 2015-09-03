@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  color: black;
+
+}
+
+.btn {
+  background-color: #002448;
+}
+
+.jumbotron {
+  background-color: #e5e5e5;
+}
+
+.dark {
+  background-color: #002448;
+  color: #e5e5e5;
+}
+
+.light {
+  background-color: #e5e5e5;
+  color: black
+}
